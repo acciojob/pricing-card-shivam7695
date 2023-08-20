@@ -1,1 +1,44 @@
 /*  your css code here. If applicable */
+.card{
+    display: block;
+    width: 60%;
+    height: 100vh;
+    background-color: rgb(218, 240, 240);
+    justify-content: center;
+    padding: 0;
+    box-shadow: 0 5px 12px black;
+    
+}
+.img{
+    width:28vw ;
+    height: 25vh;
+    justify-content: space-evenly;
+    margin-top:10%;
+   margin-left: 10%;
+
+}
+.heading{
+    text-align: center;
+    font-size: 70px;
+    margin-top: 2px;
+}
+.price{
+    text-align: center;
+    font-size: 40px;
+    margin-top: 1px;
+}
+.para{
+    text-align: center;
+    font-size:25px ;
+
+
+}
+.button{margin-left: 35%;
+    align-items: center;
+    text-align: center;
+    background-color: rgb(255, 102, 0);
+    width: 100px;
+    height: 50px;
+    border-radius: 15px;
+		padding:10px;
+}
